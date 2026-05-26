@@ -171,7 +171,38 @@ python analytics.py
 streamlit run dashboard.py
 
 ---
+## 📊 Output
 
+When you run the project:
+
+```bash
+python analytics.py
+
+--- ANALYTICS ---
+Total Revenue: 50699.8
+
+DAU Sample:
+date
+2026-04-22  590
+2026-04-23  800
+2026-04-24  824
+2026-04-25  792
+2026-04-26  819
+
+Top Countries:
+Korea        446
+Congo        415
+Netherlands  241
+Niger        238
+Saint Lucia  237
+
+Retention (approx): 1.0
+---
+
+# 🖼️ 2. DASHBOARD screenshot
+
+First:
+- 
 ## 🎯 Skills Demonstrated
 
 - Data Engineering (ETL pipelines)
