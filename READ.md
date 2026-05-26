@@ -199,9 +199,10 @@ Saint Lucia  237
 Retention (approx): 1.0
 ---
 
-# 🖼️ 2. DASHBOARD screenshot
+## 📊 Dashboard Output
 
-First:
+![Dashboard](Dashboard.png)
+![Dashboard](Dashboard2.png)
 - 
 ## 🎯 Skills Demonstrated
 
